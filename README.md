@@ -6,7 +6,9 @@
 * **Instructor:** Dr. Adithya Balasubramanyam
 * **Team Members:** Surabhi Venkatesha, Mahika Neranjen, Brinda S, B M Krupa
 
-🎥 **[Click Here to View the Final Demonstration Video](INSERT_YOUR_VIDEO_LINK_HERE)**
+Here is the demo video:
+
+https://github.com/user-attachments/assets/2a96c245-a381-4804-8044-fb976ba65af8
 
 ---
 
